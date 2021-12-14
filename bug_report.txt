@@ -4,3 +4,4 @@ Bug report
   steps: step to reproduce  
   actual result: step_1  
   expected result: step 
+  scrennshot: 1
