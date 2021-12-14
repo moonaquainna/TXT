@@ -1,0 +1,9 @@
+skill1:gitbash
+skill2: github
+skill3: Jira"
+skill4: Postman
+skill5: MysQL
+skill6: Json
+skill7: XML
+skill7: Scrum
+skill8: Charles

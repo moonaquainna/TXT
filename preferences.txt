@@ -1,0 +1,5 @@
+Movie: Comedy
+        Serial:Parks and Recreation
+        Food:  Strawberry
+        Season: Summer
+        Country: Italy
